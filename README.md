@@ -1,0 +1,2 @@
+# json_list_sample
+DictinaryのJsonシリアライズ・デシリアライズ教える用
